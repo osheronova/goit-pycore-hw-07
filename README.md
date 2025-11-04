@@ -1,4 +1,5 @@
 # goit-pycore-hw-07
+# OOP implementation into project
 Технiчний опис завдання
 
 Завдання 1
